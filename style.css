@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+}
+:root { 
+    font-size: 62%;
+
+}
+
+h1 {
+    color: #001177;
+    background: #e0ffff;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Comic Neue', cursive;
+}
+p {
+    text-align: justify;
+    text-indent: 15px;
+    font-size: 1.8rem;
+}
+
+.bg {
+    height: 500px;
+    width: 100%;
+    background: aqua;
+    background-image: url(https://images.pexels.com/photos/414837/pexels-photo-414837.jpeg?auto=compress&cs=tinysrgb&w=600;);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bgDois {
+    height: 500px;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/459728/pexels-photo-459728.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
